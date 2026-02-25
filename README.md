@@ -1,0 +1,2 @@
+# An-lisis-del-desempe-o-de-operadores-de-un-servicio-de-telefon-a-virtual
+El objetivo de este proyecto fue identificar a los operadores ineficaces para optimizar el servicio y reducir pérdidas.Definí KPIs clave de ineficiencia para identificar operadores con bajo rendimiento, estableciendo umbrales basados en el análisis de datos.Realicé limpieza y preparación de datos para asegurar la calidad de los datasets.
